@@ -2,11 +2,14 @@ package main
 
 import (
 	// "api"
+	// "alpaca"
+
 	"fmt"
-	"github.com/joho/godotenv"
 	"log"
 	"net/http"
 	"os"
+
+	"github.com/joho/godotenv"
 )
 
 func loadEnv() {

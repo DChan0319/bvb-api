@@ -1,5 +1,8 @@
 .idea/
+<<<<<<< HEAD
 .vscode/
+=======
+>>>>>>> f12ba99... Setup local go environment with go modules
 # Environment variable files
 .env
 .env.dev
