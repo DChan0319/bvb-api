@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+# Environment variable files
+.env
+.env.dev
+.env.prod
+
+# bin and pkgs for go to be ignored
+bin/
+pkg/
+src/github.com/
+
+# Executable file
+bvb-api
