@@ -1,8 +1,16 @@
 .idea/
+.vscode/
 # Environment variable files
 .env
 .env.dev
 .env.prod
+
+# logs
+*.log
+
+# https crt and key
+*.key
+*.crt
 
 # bin and pkgs for go to be ignored
 bin/
